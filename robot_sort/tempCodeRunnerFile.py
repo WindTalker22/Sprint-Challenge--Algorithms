@@ -1,0 +1,5 @@
+robot.move_right()
+    # robot.set_light_on()
+    # print(robot.light_is_on())
+    # robot.set_light_off()
+    # print(robot.light_is_on())
